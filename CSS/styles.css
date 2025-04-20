@@ -1,0 +1,220 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bg-body-tertiary, .footer-cy, .navbar-expand-lg {
+    background-color: #2f3e46 !important;
+    color: #cad2c5 !important;
+}
+
+.navbar-toggler, .navbar-nav {
+    background-color: #2f3e46 !important;
+    color: #cad2c5 !important;
+}
+
+.navbar-brand, .nav-link {
+    color: #cad2c5 !important;
+}
+
+.nav-link:hover {
+    color: white !important;
+}
+
+.active {
+    color: white !important;
+}
+
+code {
+    color: #2A3E41;
+    font-weight: 300;
+    font-style: normal;
+}
+
+body {
+    color: black;
+    background-color: #cad2c5;
+}
+
+h1,h2, h3, h4 {
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+.code1 {
+    margin-top: 5rem !important;
+}
+
+.code2 {
+    margin-top: 4.1rem !important;
+}
+
+.code3 {
+    margin-top: 3.5rem !important;
+}
+
+.code4 {
+    margin-top: 3rem !important;
+}
+
+.code5 {
+    margin-top: 2rem !important;
+}
+
+.border-bottom, .border-end {
+    border-color: #2A3E41 !important;
+}
+
+/* Calendula & Cresta */
+.calendulaCresta {
+    font-family: "calendula", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.calendulaCresta p {
+    font-family: "cresta", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.calendulaCresta em {
+    font-family: "cresta", sans-serif;
+    font-weight: 750;
+    font-style: normal;
+}
+
+.calendulaCresta h1 {
+    font-size: 47.78px;
+    font-weight: 700;
+}
+
+.calendulaCresta h2 {
+    font-size: 39.81px;
+    font-weight: 700;
+}
+
+.calendulaCresta h3 {
+    font-size: 33.18px;
+    font-weight: 700;
+}
+
+.calendulaCresta h4 {
+    font-size: 27.65px;
+    font-weight: 700;
+}
+
+.calendulaCresta a {
+    font-weight: 700;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+.calendulaCresta a:hover {
+    text-decoration-color: #2A3E41;
+    color: #2A3E41;
+    text-decoration-style: dashed;
+}
+
+/* Courier */
+.courier {
+    font-family: "courier-new", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.courier p {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.courier em {
+    font-family: "courier-new", sans-serif;
+    font-weight: 700 !important;
+    font-style: normal;
+}
+
+.courier h1 {
+    font-size: 47.78px;
+    font-weight: 700;
+}
+
+.courier h2 {
+    font-size: 39.81px;
+    font-weight: 700;
+}
+
+.courier h3 {
+    font-size: 33.18px;
+    font-weight: 700;
+}
+
+.courier h4 {
+    font-size: 27.65px;
+    font-weight: 700;
+}
+
+.courier a {
+    font-weight: 700;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+.courier a:hover {
+    text-decoration-color: #2A3E41;
+    color: #2A3E41;
+    text-decoration-style: dashed;
+}
+
+/* Courier & Pragamatic */
+.courierPragamatic {
+    font-family: "pragmatica", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.courierPragamatic p {
+    font-family: "courier-std", monospace;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.courierPragamatic em {
+    font-family: "courier-new", sans-serif;
+    font-weight: 700 !important;
+}
+
+.courierPragamatic h1 {
+    font-size: 47.78px;
+    font-weight: 700;
+}
+
+.courierPragamatic h2 {
+    font-size: 39.81px;
+    font-weight: 700;
+}
+
+.courierPragamatic h3 {
+    font-size: 33.18px;
+    font-weight: 700;
+}
+
+.courierPragamatic h4 {
+    font-size: 27.65px;
+    font-weight: 700;
+}
+
+.courierPragamatic a {
+    font-weight: 700;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+.courierPragamatic a:hover {
+    text-decoration-color: #2A3E41;
+    color: #2A3E41;
+    text-decoration-style: dashed;
+}
+
